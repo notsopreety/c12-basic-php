@@ -15,16 +15,16 @@ This repository contains basic PHP programs for Grade 12 practicals, designed to
 1. Install [XAMPP](https://www.apachefriends.org/index.html) on your system.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/php-practical.git
+   git clone https://github.com/yourusername/c12-basic-php.git
    ```
 3. Move the cloned folder to the XAMPP `htdocs` directory:
    ```sh
-   C:\xampp\htdocs\php-practical
+   C:\xampp\htdocs\c12-basic-php
    ```
 4. Start the Apache server from the XAMPP Control Panel.
 5. Open your browser and run the PHP files using:
    ```
-   http://localhost/php-practical/filename.php
+   http://localhost/c12-basic-php/filename.php
    ```
 
 ## Contributing
