@@ -15,7 +15,7 @@ This repository contains basic PHP programs for Grade 12 practicals, designed to
 1. Install [XAMPP](https://www.apachefriends.org/index.html) on your system.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/c12-basic-php.git
+   git clone https://github.com/notsopreety/c12-basic-php.git
    ```
 3. Move the cloned folder to the XAMPP `htdocs` directory:
    ```sh
